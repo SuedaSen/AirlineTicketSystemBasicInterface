@@ -1,0 +1,20 @@
+D:\repos\deneme\deneme\bin\Debug\deneme.exe.config
+D:\repos\deneme\deneme\bin\Debug\deneme.exe
+D:\repos\deneme\deneme\bin\Debug\deneme.pdb
+D:\repos\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+D:\repos\deneme\deneme\obj\Debug\deneme.Form1.resources
+D:\repos\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+D:\repos\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+D:\repos\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+D:\repos\deneme\deneme\obj\Debug\deneme.exe
+D:\repos\deneme\deneme\obj\Debug\deneme.pdb
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\bin\Debug\deneme.exe.config
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\bin\Debug\deneme.exe
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\bin\Debug\deneme.pdb
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\obj\Debug\deneme.Form1.resources
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\obj\Debug\deneme.Properties.Resources.resources
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\obj\Debug\deneme.exe
+F:\Gereksizler & Sınavlar\Türk Hava Yolları 2\deneme\obj\Debug\deneme.pdb
